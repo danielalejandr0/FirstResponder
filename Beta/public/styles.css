@@ -1,0 +1,92 @@
+
+
+.about-paragraph{
+    padding: 5% 10%;
+    margin-bottom: 1rem;
+}
+
+
+.call-to-action {
+
+    margin-top: 3rem;
+    margin-bottom: 4rem;
+    justify-content: center;
+
+}
+
+/* find out more on vw */
+ .card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+ 
+
+ .container-fluid {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+ 
+ .container-fluid {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+/* Bottom left text */
+.bottom-left {
+color: whitesmoke;
+  position: absolute;
+  bottom: 24%;
+  left: 12%;
+}
+
+/* Bottom right text */
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
+.form{
+    margin: 2%
+}
+
+.register-col{
+  margin-top: 20px;
+  position: relative;
+}
+
+.register-btn {
+  margin-top: 2rem;
+  position: absolute;
+  padding: 2%;
+  bottom : 0%; 
+  left: 50%;
+ 
+}
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+/* Top left text */
+.top-left {
+  color: #00416d;
+  position: absolute;
+  top: 8%;
+  left: 12%;
+  line-height: 3
+}
+
+/* Top right text */
+.top-right {
+  position: static;
+  top: 8px;
+  right: 16px;
+}
+  

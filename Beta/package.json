@@ -1,0 +1,15 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "Automated Medical Record Search and Send Applicaiton",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Health Info Dispatch"
+  },
+  "author": "Daniel Tosta",
+  "license": "ISC"
+}
